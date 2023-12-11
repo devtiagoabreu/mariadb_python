@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Conexões ao banco de dados
+conaxao_mariadb.py
+
 # C extensions
 *.so
 
